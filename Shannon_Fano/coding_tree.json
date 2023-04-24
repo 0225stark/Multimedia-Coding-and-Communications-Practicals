@@ -1,0 +1,22 @@
+{
+    "1": {
+        "symbol": "q",
+        "probability": 0.15,
+        "code": "111"
+    },
+    "2": {
+        "symbol": "r",
+        "probability": 0.2,
+        "code": "110"
+    },
+    "3": {
+        "symbol": "p",
+        "probability": 0.25,
+        "code": "10"
+    },
+    "4": {
+        "symbol": "s",
+        "probability": 0.4,
+        "code": "0"
+    }
+}
